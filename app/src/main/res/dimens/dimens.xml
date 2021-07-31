@@ -1,0 +1,96 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="one_dp">1dp</dimen>
+    <dimen name="sign_up_toolbar">50dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="seven_dp">7dp</dimen>
+    <dimen name="fifteen_dp">15dp</dimen>
+    <dimen name="fifteen_sp">15sp</dimen>
+    <dimen name="twenty_dp">20dp</dimen>
+    <dimen name="twenty_five_dp">25dp</dimen>
+    <dimen name="thirty_dp">30dp</dimen>
+    <dimen name="thirty_five_dp">35dp</dimen>
+    <dimen name="forty_dp">40dp</dimen>
+    <dimen name="fifty">50dp</dimen>
+    <dimen name="sixty">62dp</dimen>
+    <dimen name="sixty_dp">80dp</dimen>
+    <dimen name="five_dp">5dp</dimen>
+    <dimen name="normal_text">18sp</dimen>
+    <dimen name="small_text">15sp</dimen>
+    <dimen name="very_medium">20sp</dimen>
+    <dimen name="very_small_text">12sp</dimen>
+    <dimen name="medium_text">22sp</dimen>
+    <dimen name="header">25sp</dimen>
+    <dimen name="text_button">30sp</dimen>
+    <dimen name="title">35sp</dimen>
+    <dimen name="hundred">100dp</dimen>
+    <dimen name="quick_links_max_width">150dp</dimen>
+    <dimen name="tabs_max_width">200dp</dimen>
+
+    <dimen name="seventy_dp">70dp</dimen>
+    <dimen name="three_hundred_dp">300dp</dimen>
+
+    <dimen name="nav_header_height1">200dp</dimen>
+
+    <!-- 344942 5/25/2017 -->
+    <dimen name="charttextsize">15dp</dimen>
+    <dimen name="form_text_link_size">16sp</dimen>
+    <dimen name="form_text_link_size_small">15sp</dimen>
+
+    <!-- Details pages font size -->
+    <dimen name="heading_type_font">16dp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">10dp</dimen>
+    <dimen name="nav_header_height">210dp</dimen>
+    <dimen name="profile_width">100dp</dimen>
+    <dimen name="profile_height">100dp</dimen>
+    <dimen name="inc_Att_porfile">10dp</dimen>
+
+    <dimen name="legendmargin">5dp</dimen>
+    <dimen name="legendwidthheight">20dp</dimen>
+    <dimen name="legendtextsize">10dp</dimen>
+    <dimen name="legendradious">3dp</dimen>
+    <dimen name="three_dp">3dp</dimen>
+    <dimen name="dashboardpadding__bottom">5dp</dimen>
+    <dimen name="emp_dashboard_heading_top_bottom_padding">15dp</dimen>
+    <dimen name="emp_dashboard_heading_left_padding">5dp</dimen>
+    <dimen name="tweleve_dp">12dp</dimen>
+    <dimen name="dashboards_subcategirysize">13sp</dimen>
+    <dimen name="dashboards_subcategiry_count_size">12sp</dimen>
+    <dimen name="dashboards_circlesize">25dp</dimen>
+
+    <dimen name="complan_list_heading">16dp</dimen>
+    <dimen name="complan_list_laabel_value">12dp</dimen>
+
+    <dimen name="traveldesk_listsize">12dp</dimen>
+    <dimen name="ers_trf_listsize">12dp</dimen>
+    <dimen name="hoteldesk_listsize">12dp</dimen>
+
+    <dimen name="label_size">14sp</dimen>
+
+    <dimen name="captchasize">25dp</dimen>
+
+    <dimen name="travel_divider_width">25dp</dimen>
+    <dimen name="travel_divider_height">5dp</dimen>
+
+    <dimen name="travel_circle_width">60dp</dimen>
+    <dimen name="travel_strike_circle_width">40dp</dimen>
+
+    <dimen name="ers_tab_selected_unselected_width">50dp</dimen>
+    <dimen name="ers_tab_padding">15dp</dimen>
+    <dimen name="ers_tab_list_dot_height">2dp</dimen>
+    <dimen name="ers_tab_list_date_dot_height">8dp</dimen>
+    <dimen name="ers_trf_tab_indicator">2dp</dimen>
+    <dimen name="padding_no_records">15dp</dimen>
+    <dimen name="complan_headers_padding">3dp</dimen>
+
+    <dimen name="common_tab_height">65dp</dimen>
+    <dimen name="calender_tab_height">40dp</dimen>
+    <dimen name="calender_indicator">5dp</dimen>
+    <dimen name="header_icons">24dp</dimen>
+</resources>
